@@ -1,8 +1,23 @@
 
 # Please read the Project Report to get more idea about the Project and its implementaion.
 
-Link to the Project Report: https://docs.google.com/document/d/1HDNpGKUTVpfSyLamEInAwF8HQ7we_7A0w-pMqsbxXGg/edit?usp=sharing
-  
+# Link to Youtube demo Video
+https://youtu.be/Lmc4rT59Qqg  
+
+# FrontEnd Demo:
+1) Normal User Sign In:
+![2](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/2aa4a74a-2554-4cbf-a9c7-a2669fc05868)
+2)Sign Up:
+![0 2](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/c5cc5051-62e0-4662-8725-fc446452c577)
+3) Admin Signup:
+![0 3](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/ae096fda-e7c4-489a-bd28-010f7c09b3d6)
+4) Normal User View:
+![user_complaint2](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/67d98d25-3a7b-4bbb-8c21-400c33b51072)
+![user_complaint1](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/31745395-0c99-4736-b41c-e08a3f3bf851)
+5) Admin View:
+![complaint1](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/0b5b3615-8592-4f71-9fd8-605c7b20e991)
+![complaint2](https://github.com/jainavsanghvi10/complaint-box/assets/79016037/d5d0ace5-8f53-42a7-8a71-4796116e365c)
+
 # Instructions to Run the Program:
   1) npm start
   2) node server.js
@@ -55,9 +70,7 @@ Now, we made this project by keeping in mind the students of college who can’t
     "passport": "^0.5.2",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.1.0"
- 
- # Link to Youtube demo Video
-https://youtu.be/Lmc4rT59Qqg    
+  
 *****************************************************************************************************************************************************************
 
 # Getting Started with Create React App
